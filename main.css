@@ -831,4 +831,8 @@ nav .fa {
   .banner {
     width: 120.5%;
   }
+}
+.footer .icon a i {
+  text-decoration: none;
+  color: black;
 }/*# sourceMappingURL=main.css.map */
